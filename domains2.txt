@@ -1,0 +1,5 @@
+com
+ru
+co.il
+xyz
+org

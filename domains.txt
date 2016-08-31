@@ -1,0 +1,10 @@
+com
+ru
+co.il
+xyz
+org
+net
+ua
+uk
+tv
+de
